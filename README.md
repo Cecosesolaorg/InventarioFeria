@@ -1,6 +1,6 @@
-# 🚀 Sistema de Inventario Cecosesola Premium
+# 🚀 Sistema de Inventario Cecosesola
 
-¡Bienvenido al repositorio oficial del **Sistema de Inventario Cecosesola**! Un proyecto de software robusto, estético e inteligente diseñado para optimizar el control de víveres en tiempo real.
+¡Bienvenido al repositorio oficial del **Sistema de Inventario Cecosesola**! Un proyecto de software libre, estético e inteligente diseñado para optimizar el control de víveres en tiempo real.
 
 ---
 
@@ -27,21 +27,14 @@ Este proyecto es el resultado de una dedicación constante y un desarrollo itera
 
 ## 🌟 Características Principales
 
-*   **💎 Estética Glassmorphism:** Interfaz premium con efectos de desenfocado, gradientes vibrantes y animaciones fluidas.
-*   **🔄 Sincronización Realtime:** Integración con **Firebase Realtime Database** para compartir equipos de trabajo entre múltiples dispositivos al instante.
 *   **📦 Estructura de Gran Escala:** Soporte para 19 pasillos independientes con una organización de productos centralizada.
 *   **🧮 Calculadora Inteligente:** Herramienta integrada con historial de cálculos para auditorías rápidas por producto.
 *   **📡 Modo Offline-First:** El sistema funciona sin internet usando `localStorage` y se sincroniza automáticamente al recuperar la señal.
-*   **📊 Reportes Premium:** Exportación de inventarios directamente a formatos de Excel con estilos corporativos.
+*   **📊 Reportes:** Exportación de inventarios directamente a formatos de Excel con estilos corporativos.
 
 ---
 
 ## 💻 Tecnologías Utilizadas
-
-*   **Frontend:** HTML5 Semántico, CSS3 Premium (Variables, Flexbox, Grid, Glassmorphism).
-*   **Lógica:** JavaScript Vannila (ES6+) con enfoque modular.
-*   **Base de Datos / Backend:** Firebase Realtime Database.
-*   **Librerías:** ExcelJS, FileSaver.js (para reportes avanzados).
 *   **Hosting:** GitHub Pages.
 
 ---
@@ -56,8 +49,6 @@ Este proyecto es el resultado de una dedicación constante y un desarrollo itera
 
 ---
 
-> [!NOTE]
-> **Estado Actual:** El proyecto se encuentra en fase de refinamiento de sincronización entre dispositivos y optimización de base de datos en nube.
-
-**Desarrollado con pasión para Cecosesola.**
+**Equipo de sistema F.este.**
 _Construyendo confianza en la diversidad._
+
